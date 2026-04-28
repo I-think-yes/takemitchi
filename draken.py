@@ -20,5 +20,4 @@ while True:
     if choice == "1":
         new_item = input("Enter item to add: ")
         items.append(new_item)
-        print("Item added!")
-
+        print("Item added!"
